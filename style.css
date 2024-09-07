@@ -1,0 +1,132 @@
+#id1{
+    display: inline-block;
+    margin-left: 50px;
+}
+#id2{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top:13px;
+}
+a{
+    margin-top:30px;
+    text-decoration: none;
+    color:#56A6D1;
+    margin-left:20px;
+    font-size:13px;
+}
+div{
+    display: flex;
+}
+a:hover {
+    background-color:#56A6D1; 
+    color:white;
+}
+#sec1{
+    height:370px;
+    background-color: black;
+    background-image: url(./MedPlus1.jpg);
+    background-size: cover;
+    
+}
+img:hover{
+    background-color: #56A6D1;
+}
+#id4{
+    display: block;
+    padding-top: 150px;
+    padding-left: 100px;
+    
+}
+#id5{
+    text-align: center;
+    margin-left: 190px;
+    margin-top: 30px  ;
+    color:#0680BE;
+    line-height: 36px;
+    font-size: 21px;
+}
+.sec2{
+    height:700px;
+    background-color: #DCE8EC;
+    /* margin-top: 30px; */
+    
+}
+#services{
+    width:200px;
+    height:250px;
+    background-color: white;
+    display: block;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 30px;
+    
+    
+}
+#aboutus{
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+}
+#id7 {
+   display: block;
+   /* display:flex ; */
+   margin-left: 50px;
+   margin-right: 50px;
+}
+#id7 img{
+    float:left;
+    margin-left:30px;
+}
+#id7 h3 p{
+    margin-left:30px;
+}
+#id8 img{
+    margin-left:110px;
+}
+#events{
+    display: block;
+}
+#events{
+    /* width:100%; */
+    display: block;
+    text-align: center;
+    background-color: #0680BE;
+    height:510px;
+}
+#id9{
+    display: block;
+    margin-left:70px;
+}
+
+#id11{
+   margin-left: 50px; 
+   padding-left:50px ;
+}
+.cls1{
+    margin-left: 150px;
+}
+form{
+    margin-left: 190px;
+}
+#id12{
+    display: inline-block;
+    margin-left: 50px;
+}
+#id13{
+    display: inline-block;
+    margin-left: 50px;
+}
+#id14{
+    display: inline-block;
+    margin-left: 50px;
+}
+footer{
+    background-color: black;
+    color: #DCE8EC;
+}
+span{
+    margin-left: 270px;
+}
+html{
+    scroll-behavior: smooth;
+}
